@@ -10,9 +10,8 @@
         }
     ],
     "require": {
-        "php": ">=7.3",
-        "illuminate/support": "^8.0",
-        "laravel/scout": "^8.3",
+        "illuminate/support": "^9.0",
+        "laravel/scout": "^9.0",
         "hyn/multi-tenant": "*"
     },
     "autoload": {
